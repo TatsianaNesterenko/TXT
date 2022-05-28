@@ -1,0 +1,6 @@
+Name - Tatsiana
+Surname - Nesterenko
+Middle name - Vladimirovna
+Number of pet - 1
+Desired salary - 1000
+
